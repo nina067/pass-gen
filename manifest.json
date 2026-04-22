@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "password gen",
+  "version": "1.0",
+  "description": "salut ça va",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "password generator"
+  }
+}
